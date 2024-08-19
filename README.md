@@ -1,5 +1,5 @@
 Manuel Cordeiro Bruno
-Développeur Web  | brunobrunetion@gmail.com| [[Lien vers le portfolio]]
+Développeur Web  | brunobrunetion@gmail.com| https://portfoliobrunomanuel.42web.io/
 
 À propos de moi
 Passionné par le développement web, je suis un développeur junior avec 2 ans d'expérience. Mes principales compétences sont le HTML, le CSS, le JavaScript, PHP, SQL, NoSQL ainsi que les frameworks et bibliothèques comme React. J'ai également de bonnes connaissances en matière de conception de sites web responsive et d'optimisation des performances.
@@ -12,14 +12,7 @@ Git, GitHub
 Responsive design
 Optimisation des performances web
 Expérience professionnelle
-Développeur web 
-Entreprise SAGA DECOR | 2024 
-Assistant Informatique
-Entreprise Oise Télécom | 2022/2023 
-Designer Graphique
-Entreprise R.Eveline | 2017/2019
-
-
+Développeur web.
 Développement et maintenance de sites web pour des clients de différents secteurs
 Intégration de maquettes graphiques en HTML/CSS
 Implémentation de fonctionnalités interactives en JavaScript
@@ -43,5 +36,5 @@ Contact
 N'hésitez pas à me contacter pour toute opportunité ou question :
 
 Email : brunobrunetion@gmail.com
-LinkedIn : [Lien LinkedIn]
+LinkedIn : (https://www.linkedin.com/in/bruno-manuel-cordeiro-094292247)
 GitHub : https://github.com/IncroyableBruno/playbruno.git
